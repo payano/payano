@@ -5,7 +5,7 @@
 **payano/payano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### 🧐 About Me:
-- 🔭 I’m currently working for Ericsson, writing userpace drivers in Linux for 5G Radios.
+- 🔭 I’m currently working for <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ericsson_logo.svg" height=40 />,writing userpace drivers in Linux for 5G Radios.
 - 👯 I’m looking to collaborate on new and interesting stuff related to networking, IoT or embedded development.
 - 💬 Ask me about Linux, Networking, C/C++ development, scripting
 - 📫 How to reach me: [www.exclude.se](https://www.exclude.se)
