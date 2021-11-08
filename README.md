@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi, I'm Johan Svensson 👋
+[![LinkedIn LinkedIn](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=0e76a8&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/johan-svensson-25b191a/)
 
 <!--
 **payano/payano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
