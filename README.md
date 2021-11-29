@@ -14,6 +14,19 @@
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ...-->
 
+## 💻 Languages and Technologies:
+<p align="left">
+	<a href="https://www.cprogramming.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+	</a>
+	<a href="https://www.cplusplus.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="linux" width="40" height="40"/>
+	</a>
+	<a href="https://www.linux.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+
+
 ## 📊 My Github Stats <br/>
 <img alt="payano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=payano&show_icons=true&count_private=true" />
 <img alt="payano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payano&layout=compact" />
