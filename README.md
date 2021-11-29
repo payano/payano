@@ -15,6 +15,6 @@
 <!-- - ⚡ Fun fact: ...-->
 
 ## 📊 My Github Stats <br/>
-<a href="https://github.com/payano/github-readme-stats"><img alt="payano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=payano&show_icons=true&count_private=true" /></a>
-<a href="https://github.com/payano/github-readme-stats"><img alt="payano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payano&layout=compact" /></a>
+<img alt="payano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=payano&show_icons=true&count_private=true" />
+<img alt="payano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payano&layout=compact" />
 <br/>
