@@ -18,3 +18,4 @@
 <img alt="payano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=payano&show_icons=true&count_private=true" />
 <img alt="payano's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payano&layout=compact" />
 <br/>
+![Profile views](https://gpvc.arturio.dev/payano)
