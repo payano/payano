@@ -43,9 +43,6 @@
 	<a  href="https://www.raspberrypi.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="rpi" width="40" height="40"/>
 	</a>
-	<a  href="https://www.openssh.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
-	</a>
 
 ## 📊 My Github Stats <br/>
 <img alt="payano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=payano&show_icons=true&count_private=true" />
