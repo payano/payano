@@ -20,12 +20,32 @@
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 	</a>
 	<a href="https://www.cplusplus.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="linux" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-
+  	</a>
+	<a  href="https://www.arduino.cc/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>
+	</a>
+	<a  href="https://www.gnu.org/software/bash/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+	</a>
+	<a  href="https://en.wikipedia.org/wiki/Embedded_C" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" alt="EmbeddedC" width="40" height="40"/>
+	</a>
+	<a  href="https://git-scm.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+	</a>
+	<a  href="https://perl.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/perl/perl-original.svg" alt="perl" width="40" height="40"/>
+	</a>
+	<a  href="https://www.raspberrypi.org/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="rpi" width="40" height="40"/>
+	</a>
+	<a  href="https://www.openssh.com/" target="_blank">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="40" height="40"/>
+	</a>
 
 ## 📊 My Github Stats <br/>
 <img alt="payano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=payano&show_icons=true&count_private=true" />
